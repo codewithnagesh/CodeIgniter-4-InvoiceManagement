@@ -1,0 +1,1 @@
+This CodeIgniter project is designed as a modular and reusable system, demonstrating the implementation of three key features: Inventory Management, Invoice Management, and Payment Processing. The project uses MVC architecture with well-structured controllers, models, views, and optional helpers for common tasks.
